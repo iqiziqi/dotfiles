@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/cc/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 export EDITOR="vim"
 
 # Set name of the theme to load --- if set to "random", it will
@@ -102,4 +102,3 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-source /usr/share/nvm/init-nvm.sh
